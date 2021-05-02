@@ -7,3 +7,5 @@
 пример: 
 
 
+
+![](https://github.com/annagogley/Poke3d/blob/main/promo.gif)
