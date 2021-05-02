@@ -1,0 +1,23 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "blackSquare.arreferenceimage"
+    },
+    {
+      "filename" : "blueSquare.arreferenceimage"
+    },
+    {
+      "filename" : "idol.arreferenceimage"
+    },
+    {
+      "filename" : "redSquare.arreferenceimage"
+    },
+    {
+      "filename" : "shark.arreferenceimage"
+    }
+  ]
+}
